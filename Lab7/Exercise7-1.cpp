@@ -24,6 +24,9 @@ int main()
   cout << "The average number of the array is: " << average << "." << endl;
   cout << "The 10000th element is: " << myArray[10000] << endl;
   return 0;
+
+  while(1) 
+   return 0;
 }
 
 void printArray(int arrayToPrint[25])
