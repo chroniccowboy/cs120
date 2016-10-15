@@ -1,0 +1,13 @@
+Ian Wood
+CS120 Section 3
+Lab 7
+10/13/2016
+
+The 26th element is consistent if you input the same values into the array.
+If only 1 is input into the array, the 26th element will always be 1065353216.
+If only 2 is input into the array, the 26th element will always be 1073741824.
+The 10 in front of the number does not change, only the last 8 digits change.
+
+Trying to print the 10000th element of the array instead prints:
+Segmentation fault.
+According to Wikipedia, this is notifying the OS of a memory access violation.

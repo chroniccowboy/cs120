@@ -1,0 +1,15 @@
+Script started on Thu 08 Sep 2016 03:11:33 PM PDT
+[?1034hbash-4.1$ exit./a.out
+An int with no value assigned: -1304959488
+A float with no value assigned: 4.59135e-41
+The float's value is 4.59163e-41 but the int's value changes each time the program is run.
+10
+100
+10000
+100000000
+1e+08
+It is possible for a float to have a value too large to hold.The largest value an integar variable can correctly hold is: 2147483647
+bash-4.1$ ./a.out[3Pexit
+exit
+
+Script done on Thu 08 Sep 2016 03:11:39 PM PDT

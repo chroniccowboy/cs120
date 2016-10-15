@@ -1,0 +1,28 @@
+//Ian Wood
+//CS120 Section 3
+//10/06/16
+
+The program gets two numbers and multiplies them together. 
+
+Getting the first number
+Enter a number: 5
+Getting the second number
+Enter a number: 5
+The product of your numbers is: 25.
+
+If you try to put a negative number or zero in, it will loop until you put in
+the right kind of number.
+ 
+Getting the first number
+Enter a number: -3
+Enter a number: 4
+Getting the second number
+Enter a number: 3
+The product of your numbers is: 12.
+
+If you try to put in a non-integer value, the program will end.
+Getting the first number
+Enter a number: 4
+Getting the second number
+Enter a number: r
+The product of your numbers is: 0

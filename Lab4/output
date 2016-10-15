@@ -1,0 +1,64 @@
+//Ian Wood
+//CS120 Section 3
+//09/22/16
+
+This is the output of the program without any loops:
+10
+20
+30
+40
+50
+150
+
+This is the output of the program with the for loop:
+15
+30
+45
+60
+75
+225
+
+This is the output of the program with the for loop and escape condition:
+10
+20
+30
+0
+60
+
+This is the output of the program with the while loop:
+20
+40
+60
+0
+120
+
+This is the output of the program with the do-while loop:
+1
+1
+2
+3
+5
+8
+0
+20
+
+This is the table generated using loops:
+
+	0	1	2	3	4	5	6	7	8	9	
+40	(	)	*	+	,	-	.	/	0	1
+
+50	2	3	4	5	6	7	8	9	:	;
+
+60	<	=	>	?	@	A	B	C	D	E
+
+70	F	G	H	I	J	K	L	M	N	O
+
+80	P	Q	R	S	T	U	V	W	X	Y
+
+90	Z	[	\	]	^	_	`	a	b	c
+
+100	d	e	f	g	h	i	j	k	l	m
+
+110	n	o	p	q	r	s	t	u	v	w
+
+Script done on Thu 22 Sep 2016 03:37:50 PM PDT

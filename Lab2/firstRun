@@ -1,0 +1,13 @@
+Script started on Thu 08 Sep 2016 02:40:26 PM PDT
+[?1034hbash-4.1$ a.[K[K./a,[K.out
+Please enter a number: 5
+Please enter another number: 17
+The sum of 5 plus 17 is 22.The average of your numbers is 11.bash-4.1$ ./a.out
+Please enter a number: 6
+Please enter another number: 17
+The sum of 6 plus 17 is 23.The average of your numbers is 11.bash-4.1$ ./am[K.out
+Please enter a number: 4.5
+Please enter another number: The sum of 4 plus 0 is 4.The average of your numbers is 2.bash-4.1$ exit
+exit
+
+Script done on Thu 08 Sep 2016 02:41:19 PM PDT

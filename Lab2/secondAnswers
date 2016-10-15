@@ -1,0 +1,17 @@
+Ian Wood
+09/08/2016
+Exercise 2.2
+
+If you print an int before assigning a value to it, the value will be a random large value, either positive or 
+negative.
+
+If you print a float before assigning a value to it, the value will change slightly from 4.59135e-41 but stay
+around there.
+
+The int gives a random number while the float gives an almost constant value.
+
+Yes, if you try to store a value too large in an integer, the program will not compile.
+
+Yes, it is possible to store a value too large for a float, the program will not compile in this case as well.
+
+The largest value an integer variable can correctly hold is 2147483647.

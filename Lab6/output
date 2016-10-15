@@ -1,0 +1,42 @@
+//Ian Wood
+//CS120 Section 3
+//Lab 6
+//10/06/16
+ 
+Main 1: a = 1 b = 5 g = 4 x = 0
+a is declared inside the main function on line 7 and was assigned a value of 1 on line 7.
+b is declared inside the main function on line 8 and was assigned a value of 5 on line 8.
+g is declared globally on line 5 and was assinged a value of 4 on line 4.
+x is declared inside the main function on line 9 and was assinged a value of 0 on line 9.
+
+Main 2: a = 7 b = 5 g = 10 x = 0
+a is declared inside the main function on line 7 and was assinged a value of 7 on line 14.
+b is declared inside the main function on line 8 and was assigned a value of 5 on line 8.
+g is declared globally on line 5 and was assinged a value of 10 on line 15.
+x is declared inside the main function on line 9 and was assinged a value of 0 on line 9.
+
+Function 1: a = 44 x = 1 g = 6
+a is declared inside function 1 on line 31 and assinged a value of 44 on line 32.
+x is declared as a function variable on line 30 and is assinged a value of 1 on line 20. 
+g is declared globally on line 5 and was assinged a value of 6 on line 33.
+
+Main 3: a = 1 b = 50 g = 6 x = 44
+a is declared inside the main function on line 7 and was assinged a value of 1 on line 7.
+b is declared inside the main function on line 8 and was assinged a value of 50 on line 34.
+g is declared globally on line 5 and was assinged a value of 6 on line 33.
+x is delcared inside the main function on line 9 and was assinged a value of 44 on line 20.
+
+
+Function 1: a = -1 x = 50 g = 51
+a is declared inside function1 on line 31 and assinged a value of -1 on line 32.
+x is declared on line 30 and is assinged a value of -1 at line 44.
+g is declared globally on line 5 and is assinged a value of 51 on line 33.
+
+Main 4: a = 1 b = 50 g = -50 x = -1
+a is declared inside the main function on line 7 and was assinged a value of 1 on line 7.
+b is declared within the main function on line 8 and was assinged a value of 50 on line 34.
+g is declared globally on line 5 and was assinged a value of -50 on line 47.
+x is declared within the main function on line 9 and was assinged a value of -1 on line 24. 
+
+
+

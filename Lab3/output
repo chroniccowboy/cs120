@@ -1,0 +1,25 @@
+Ian Wood
+Section 03
+Lab #3
+09/15/2016
+
+
+The first output is from the if-only program
+
+Please enter an integer: 5
+
+Please enter another integer: 6
+
+6 is bigger than 5
+
+The second output is from the if-else program.
+
+Please enter an integer: 24
+
+Please enter another integer: 3
+
+24 is bigger than 3
+
+exit
+
+

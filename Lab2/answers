@@ -1,0 +1,11 @@
+Ian Wood 
+09/08/2016
+Exercise 2.1
+
+When x = 5 and y = 17, the sum was 22 and the average was 11.
+
+When the x = 6 and y = 17, the sum was 23 but the uncorrected average was 11. After making the variables doubles
+the average was 11.5.
+
+When the x = 4.5, the program would skip to the end since 4.5 is not an integer. After making x and y into
+doubles, the sum of 4.5 and 5.5 equals 10 and the average is 5.
